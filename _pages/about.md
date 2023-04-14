@@ -13,7 +13,23 @@ redirect_from:
 ## Supervisor
 Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
 
-## 
+## Biography
+Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
+Sep 2021 - Now : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li.
+
+## Research Interest
+AI4DB: Database for Artificial Intelligence.
+DB4AI: Artificial intelligence for Database.
+
+## Awards & Honors
+Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
+Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University
+Apr. 2021: Outstanding Graduate of Shaanxi Province
+Dec. 2018: National Scholarship
+Dec. 2019: National Scholarship
+Dec. 2020: Xiaomi Scholarship
+
+
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
