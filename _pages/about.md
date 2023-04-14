@@ -14,20 +14,20 @@ redirect_from:
 Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
 
 ## Biography
-Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
-Sep 2021 - Now : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li.
+- Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
+- Sep 2021 - Now : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li.
 
 ## Research Interest
-AI4DB: Database for Artificial Intelligence.
-DB4AI: Artificial intelligence for Database.
+- AI4DB: Database for Artificial Intelligence.
+- DB4AI: Artificial intelligence for Database.
 
 ## Awards & Honors
-Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
-Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University
-Apr. 2021: Outstanding Graduate of Shaanxi Province
-Dec. 2018: National Scholarship
-Dec. 2019: National Scholarship
-Dec. 2020: Xiaomi Scholarship
+- Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
+- Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University
+- Apr. 2021: Outstanding Graduate of Shaanxi Province
+- Dec. 2018: National Scholarship
+- Dec. 2019: National Scholarship
+- Dec. 2020: Xiaomi Scholarship
 
 
 
