@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing"
-title                    : "Jintao Zhang / personal website"
+title                    : "Jintao Zhang's personal website"
 title_separator          : "-"
 name                     : &name "Jintao Zhang"
 description              : &description "Master student in the database group at Tsinghua University, supervised by Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)."
