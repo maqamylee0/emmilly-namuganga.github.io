@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Beijing"
+title                    : "Jintao Zhang / personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jintao Zhang"
+description              : &description "Master student in the database group at Tsinghua University, supervised by Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)."
 url                      : https://jt-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jt-zhang/jt-zhang.github.io"
@@ -80,23 +80,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jintao Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "Master student in the database group at Tsinghua University, supervised by Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)."
+  location         : "Beijing"
+  # employer         :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=J3NTnmEAAAAJ&hl=zh-CN"
+  email            : "jtzhang6 (at) gmail.com"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jt-zhang"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,11 +107,11 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "black_is_faith"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Winterice10"
   vine             :
-  weibo            :
+  weibo            : "爱喝咖啡和可乐"
   xing             :
   youtube          :
   wikipedia        :
