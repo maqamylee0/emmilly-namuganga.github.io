@@ -11,11 +11,11 @@ redirect_from:
 
 
 ## Supervisor
-Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
+Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
 
 ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
-- Sep 2021 - Now : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li.
+- Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li.
 
 ## Research Interest
 - AI4DB: Database for Artificial Intelligence.
