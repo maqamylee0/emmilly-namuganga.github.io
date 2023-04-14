@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jintao Zhang"
   avatar           : "profile.png"
-  bio              : "Master student in the database group at Tsinghua University, supervised by Prof.[Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)."
+  bio              : "Master student in the database group at Tsinghua University, supervised by Prof.[Guoliang Li].
   location         : "Beijing"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,17 +99,17 @@ author:
   github           : "jt-zhang"
   google_plus      :
   keybase          :
-  instagram        : "jt_zhang6"
+  # instagram        : "jt_zhang6"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jintao-zhang-57637a272/"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "black_is_faith"
+  # steam            : "black_is_faith"
   tumblr           :
-  twitter          : "Winterice10"
+  # twitter          : "Winterice10"
   vine             :
   weibo            : "爱喝咖啡和可乐"
   xing             :
