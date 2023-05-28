@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Supervisor
-Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
+Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)李国良
 
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
