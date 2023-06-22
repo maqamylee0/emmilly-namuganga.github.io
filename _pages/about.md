@@ -28,7 +28,7 @@ Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) (李国�
 - Dec. 2018: National Scholarship
 - Dec. 2019: National Scholarship
 - Dec. 2020: Xiaomi Scholarship
-- Dec. 2019: Bronze Medal of Shaanxi Province in ACM/ICPC Programming Contest
+- Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest
 - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling
 
 
