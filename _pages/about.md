@@ -22,6 +22,7 @@ Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) (李国�
 - DB4AI: Artificial intelligence for Database.
 
 ## Awards & Honors
+- May. 2022: Siebel Scholars Scholarship 
 - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
 - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University
 - Apr. 2021: Outstanding Graduate of Shaanxi Province
