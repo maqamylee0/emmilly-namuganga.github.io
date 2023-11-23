@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf)
+Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf).
 
 ## Supervisor
 Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
