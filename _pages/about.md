@@ -8,10 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+[My CV](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html)
 
 ## Supervisor
-Prof. [Guoliang Li](http://dbgroup.cs.tsinghua.edu.cn/ligl/index.html) (李国良)
+Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf)
 
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
