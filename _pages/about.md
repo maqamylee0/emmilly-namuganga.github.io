@@ -22,15 +22,15 @@ Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhan
 - DB4AI: Artificial intelligence for Database.
 
 ## Awards & Honors
+<!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
 - May. 2022: Siebel Scholars Scholarship 
+<!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
+<!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
 - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
-- Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University
-- Apr. 2021: Outstanding Graduate of Shaanxi Province
-- Dec. 2018: National Scholarship
+- Dec. 2020: National Scholarship
 - Dec. 2019: National Scholarship
-- Dec. 2020: Xiaomi Scholarship
-- Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest
-- Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling
+<!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest
+- Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
 
 <!-- 
