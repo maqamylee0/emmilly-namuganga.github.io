@@ -30,8 +30,8 @@ Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhan
 - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
 - Dec. 2020: National Scholarship
 - Dec. 2019: National Scholarship
-<!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest
-- Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
+<!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
+<!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
 
 <!-- 
