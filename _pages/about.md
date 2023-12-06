@@ -19,8 +19,9 @@ Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhan
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interest
-- AI4DB: Database for Artificial Intelligence.
-- DB4AI: Artificial intelligence for Database.
+I focus on the intersection of artificial intelligence algorithms and models—specifically, contrastive representation learning and large language models—and data systems, including databases and various big data platforms.
+<!-- - AI4DB: Database for Artificial Intelligence. -->
+<!-- - DB4AI: Artificial intelligence for Database. -->
 
 ## Awards & Honors
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
