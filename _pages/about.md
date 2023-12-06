@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf).
+Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf).
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
 ## Supervisor
