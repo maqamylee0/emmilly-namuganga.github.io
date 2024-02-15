@@ -25,7 +25,7 @@ My research interest focuses on the intersection of artificial intelligence algo
 
 ## Awards & Honors
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
-- May. 2022: Siebel Scholars Scholarship 
+- May. 2023: Siebel Scholars Scholarship 
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
 - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
