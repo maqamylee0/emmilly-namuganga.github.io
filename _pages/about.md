@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jintao's Home page"
+title: "Jintao's home page"
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 # excerpt: "Home page"
 author_profile: true
@@ -16,9 +16,9 @@ redirect_from:
 
 
 ## Education Info
-- Sep. 2017 - Jul. 2021. Undergraduate, Dept. of Computer Science and Technology, Xidian University, Xian, China
-- Sep. 2017 - Jul. 2024. Master, Dept. of Computer Science and Technology, Tsinghua University, Beijing, China
-- Sep. 2024 - Now, Phd, Dept. of Computer Science and Technology, Tsinghua University, Beijing, China
+Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
+Master: Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+Ph.D.: Sep. 2024 - Now, Dept. of CS&T, Tsinghua University, Beijing, China
 
 
 ## Supervisor
