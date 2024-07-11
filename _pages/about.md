@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 <!-- Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf). -->
-[View My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf){:target="_blank"}
+<!-- [View My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf){:target="_blank"} -->
+[View My CV](https://docs.google.com/viewer?url=https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf&embedded=true){:target="_blank"}
 
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
@@ -21,9 +22,9 @@ redirect_from:
 
 
 ## Supervisor
-Supervisor of master program: Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
+Supervisor of Master's program: Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
 
-Supervisors of Phd. program: Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
+Supervisors of Ph.D. program: Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
 
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
