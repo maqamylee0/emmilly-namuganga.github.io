@@ -17,13 +17,15 @@ Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.p
 
 
 ## Education Info
-- Xidian University
-- Tsinghua University
-- Tsinghua University
+- Sep. 2017 - Jul. 2021. Undergraduate, Dept. of Computer Science and Technology, Xidian University, Xian, China
+- Sep. 2017 - Jul. 2024. Master, Dept. of Computer Science and Technology, Tsinghua University, Beijing, China
+- Sep. 2024 - Now, Phd, Dept. of Computer Science and Technology, Tsinghua University, Beijing, China
 
 
 ## Supervisor
-Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
+Supervisor of master program: Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
+
+Supervisors of Phd. program: Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
 
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
