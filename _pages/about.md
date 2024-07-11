@@ -36,7 +36,7 @@ Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.ed
 ## Research Interest
 My past research focused on the intersection of AI and databases, particularly on query optimization.
 
-Currently, my research interests are centered around **Efficient ML**, specifically, the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
+Currently, my research interests are centered around **Efficient ML**, specifically, accelerating the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
