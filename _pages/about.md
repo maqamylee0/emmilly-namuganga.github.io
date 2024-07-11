@@ -17,7 +17,9 @@ redirect_from:
 
 ## Education Info
 Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
+
 Master: Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+
 Ph.D.: Sep. 2024 - Now, Dept. of CS&T, Tsinghua University, Beijing, China
 
 
@@ -33,7 +35,7 @@ Supervisors of Ph.D. program: Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn
 ## Research Interest
 My past research focused on the intersection of AI and databases, particularly on query optimization.
 
-Currently, my research interests are centered around Efficient ML, specifically, the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
+Currently, my research interests are centered around **Efficient ML**, specifically, the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
