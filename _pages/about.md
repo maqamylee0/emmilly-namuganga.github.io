@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Jintao's Home page
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "Home page"
 author_profile: true
@@ -11,6 +11,14 @@ redirect_from:
 Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf).
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
+
+## Education Info
+- Xidian University
+- Tsinghua University
+- Tsinghua University
+
+
+
 ## Supervisor
 Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhang.pdf) (李国良)
 
@@ -19,7 +27,9 @@ Prof. [Guoliang Li](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao-Zhan
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interest
-My research interest focuses on the intersection of artificial intelligence algorithms and models—specifically, contrastive representation learning and large language models—and data systems, including databases and various big data platforms.
+My past research focused on the intersection of AI and databases, particularly on query optimization.
+
+Currently, my research interests are centered around Efficient ML, specifically, the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
