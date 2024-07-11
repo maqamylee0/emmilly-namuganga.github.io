@@ -16,6 +16,13 @@ redirect_from:
 
 
 ## Education Info
+<style>
+.small-font {
+  font-size: 0.8em; /* 调整为适当的大小 */
+}
+</style>
+
+<div class="small-font">
 <pre>
 Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
 
