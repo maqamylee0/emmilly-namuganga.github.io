@@ -16,20 +16,12 @@ redirect_from:
 
 
 ## Education Info
-<style>
-.small-font {
-  font-size: 0.8em; /* 调整为适当的大小 */
-}
-</style>
-
-<div class="small-font">
-<pre>
 Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
 
-Master:        Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+Master:&nbsp;&nbsp;&nbsp;Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
 
 Ph.D.:         Sep. 2024 - Now,       Dept. of CS&T, Tsinghua University, Beijing, China
-</pre>
+
 
 ## Supervisor
 Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
