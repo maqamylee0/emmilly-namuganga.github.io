@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jintao's Home page
+title: "Jintao's Home page"
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "Home page"
 author_profile: true
