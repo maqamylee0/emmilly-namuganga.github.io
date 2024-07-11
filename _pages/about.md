@@ -9,6 +9,10 @@ redirect_from:
   - /about.html
 ---
 Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf).
+
+<iframe src="https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf" width="100%" height="600px">
+    Your browser does not support iframes.
+</iframe>
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
 
@@ -16,7 +20,6 @@ Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.p
 - Xidian University
 - Tsinghua University
 - Tsinghua University
-
 
 
 ## Supervisor
