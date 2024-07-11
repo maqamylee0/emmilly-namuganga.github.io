@@ -23,9 +23,11 @@ Master:<span style="color: white;">..............</span>Sep. 2017 - Jul. 2024, D
 Ph.D.:<span style="color: white;">..................</span>Sep. 2024 - Now,       Dept. of CS&T, Tsinghua University, Beijing, China
 
 ## Supervisor
+Supervisors of Ph.D. program:<span style="color: white;">..</span>Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
+
 Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
 
-Supervisors of Ph.D. program:<span style="color: white;">..</span>Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
+
 
 <!-- ## Biography
 - Sep 2017 - Jun 2021 : Receive my B.Sc. degree from Xidian University;
