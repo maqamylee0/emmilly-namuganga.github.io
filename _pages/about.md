@@ -16,15 +16,15 @@ redirect_from:
 
 
 ## Education Info
-Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
+`Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China`
 
-Master:        Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+`Master:        Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China`
 
-Ph.D.:         Sep. 2024 - Now,       Dept. of CS&T, Tsinghua University, Beijing, China
+`Ph.D.:         Sep. 2024 - Now,       Dept. of CS&T, Tsinghua University, Beijing, China`
 
 
 ## Supervisor
-Supervisor of Master's program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
+Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
 
 Supervisors of Ph.D. program:   Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
 
