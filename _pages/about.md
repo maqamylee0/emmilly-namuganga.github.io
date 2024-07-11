@@ -18,9 +18,9 @@ redirect_from:
 ## Education Info
 Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, China
 
-Master: Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+Master: \ \ \ \ \ \  Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
 
-Ph.D.: Sep. 2024 - Now, Dept. of CS&T, Tsinghua University, Beijing, China
+Ph.D.: \ \ \ Sep. 2024 - Now, \ \ \ \ \ \  Dept. of CS&T, Tsinghua University, Beijing, China
 
 
 ## Supervisor
