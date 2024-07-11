@@ -10,7 +10,7 @@ locale                   : "Beijing"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Jintao Zhang (张金涛)"
-description              : &description "Ph.D. student at Tsinghua University."
+description              : &description "A Ph.D. student at Tsinghua University."
 url                      : https://jt-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jt-zhang/jt-zhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jintao Zhang (张金涛)"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student at Tsinghua University."
+  bio              : "A Ph.D. student at Tsinghua University."
   location         : "Beijing"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
