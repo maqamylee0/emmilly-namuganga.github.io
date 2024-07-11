@@ -20,7 +20,7 @@ Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University, Xian, Ch
 
 Master:<span style="color: white;">..............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
 
-Ph.D.:<span style="color: white;">..................</span>Sep. 2024 - Now,       Dept. of CS&T, Tsinghua University, Beijing, China
+Ph.D.:<span style="color: white;">..................</span>Sep. 2024 - Now,<span style="color: white;">..................</span>Dept. of CS&T, Tsinghua University, Beijing, China
 
 ## Supervisor
 Supervisors of Ph.D. program:<span style="color: white;">..</span>Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
