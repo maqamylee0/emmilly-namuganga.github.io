@@ -10,7 +10,7 @@ redirect_from:
 ---
 <!-- Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf). -->
 <!-- [View My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf){:target="_blank"} -->
-[View My CV](https://docs.google.com/viewer?url=https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf&embedded=true){:target="_blank"}
+[View My CV](https://jt-zhang.github.io/files/CV-Jintao_Zhang.pdf)
 
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
