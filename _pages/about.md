@@ -44,12 +44,12 @@ My research interests lie at the intersection of Machine Learning and databases.
 
 * Summer 2024: Research Intern
   * Max Planck Institute for Software Systems
-  * Duties included: Experimental Analysis and benchmarking Learned Systems
+  * Duties included: Experimental Analysis on benchmarking Learned Systems
   <!-- * Supervisor: Laurent BindSchaedler -->
 
 * Summer 2023: Openlab summer Intern
   * European Organisation for Nuclear Research
-  * Duties included: Improving CERN web accessibility
+  * Duties included: Implementing improvements to CERN web login in regards to accessibility
   <!-- * Supervisor: Hannah Short and Maria Fava -->
 
 ## Awards & Honors
