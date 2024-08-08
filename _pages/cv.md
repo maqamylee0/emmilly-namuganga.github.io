@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Makerere University, 2023
+<!-- * M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Intern
+  * Max Planck Institute for Software Systems
+  * Duties included: Experimental Analysis and benchmarking Learned Systems
+  * Supervisor: Laurent BindSchaedler
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Openlab summer Intern
+  * European Organisation for Nuclear Research
+  * Duties included: Improving CERN web accessibility
+  * Supervisor: Hannah Short and Maria Fava
   
 Skills
 ======

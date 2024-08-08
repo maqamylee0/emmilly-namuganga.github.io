@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jintao's home page"
+title: "Emmilly's home page"
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 # excerpt: "Home page"
 author_profile: true
@@ -10,22 +10,22 @@ redirect_from:
 ---
 <!-- Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf). -->
 <!-- [View My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf){:target="_blank"} -->
-[View My CV](https://jt-zhang.github.io/files/CV-Jintao_Zhang.pdf)
+[View My CV](https://maqamylee0/emmilly-namuganga.github.io/files/CV-Emmilly_Namuganga.pdf)
 
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
 
 ## Education Info
-Undergraduate: Sep. 2017 - Jul. 2021, Dept. of CS&T, Xidian University,<span style="color: white;">........</span>Xian, China
+Undergraduate: Sep. 2019 - Feb. 2023, Dept. of CS, Makerere University,<span style="color: white;">........</span>Kampala, Uganda
 
-Master:<span style="color: white;">............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
+<!-- Master:<span style="color: white;">............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
 
-Ph.D.:<span style="color: white;">..............</span>Sep. 2024 - Now,<span style="color: white;">.......</span>Dept. of CS&T, Tsinghua University, Beijing, China
+Ph.D.:<span style="color: white;">..............</span>Sep. 2024 - Now,<span style="color: white;">.......</span>Dept. of CS&T, Tsinghua University, Beijing, China -->
 
-## Supervisor
+<!-- ## Supervisor
 Supervisors of Ph.D. program:<span style="color: white;">.</span>Prof. [Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/index.html) (陈键飞) and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) (朱军)
 
-Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良)
+Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.edu.cn/ligl/publications.html) (李国良) -->
 
 
 
@@ -34,20 +34,32 @@ Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.ed
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interest
-My past research focused on the intersection of AI and databases, particularly on query optimization.
+My research interests lie on the intersection of Machine Learning and databases.
 
-Currently, my research interests are centered around **Efficient ML**, specifically, accelerating the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models).
+<!-- Currently, my research interests are centered around **Efficient ML**, specifically, accelerating the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models). -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
+## Internships
+
+* Summer 2024: Research Intern
+  * Max Planck Institute for Software Systems
+  * Duties included: Experimental Analysis and benchmarking Learned Systems
+  <!-- * Supervisor: Laurent BindSchaedler -->
+
+* Summer 2023: Openlab summer Intern
+  * European Organisation for Nuclear Research
+  * Duties included: Improving CERN web accessibility
+  <!-- * Supervisor: Hannah Short and Maria Fava -->
+
 ## Awards & Honors
-<!-- - Dec. 2023: Tsinghua University “129” Scholarship -->
+<!-- - Dec. 2023: Tsinghua University “129” Scholarship
 - May. 2023: Siebel Scholars Scholarship 
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
-- Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
-- Dec. 2020: National Scholarship
-- Dec. 2019: National Scholarship
+<!-- - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
+- Dec. 2020: National Scholarship --> 
+- Dec. 2019: Governement Scholarship
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
 <!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 

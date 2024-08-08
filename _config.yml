@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing"
+locale                   : "Kampala, Uganda"
 title                    : "Home Page"
 title_separator          : "-"
-name                     : &name "Jintao Zhang (张金涛)"
-description              : &description "A Ph.D. student at Tsinghua University."
-url                      : https://jt-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Emmilly Immaculate Namuganga"
+description              : &description "A Research Intern at Max Planck Institute for Software Systems."
+url                      : https://maqamylee0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jt-zhang/jt-zhang.github.io"
+repository               : "maqamylee0/emmilly-namuganga.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Winterice10
+  username               : maqamylee
 facebook:
   username               :
   app_id                 :
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jintao Zhang (张金涛)"
+  name             : "Emmilly Immaculate Namuganga"
   avatar           : "profile.jpeg"
-  bio              : "A Ph.D. student at Tsinghua University."
-  location         : "Beijing"
+  bio              : "Research Intern at MPI-SWS."
+  location         : "Kampala"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=J3NTnmEAAAAJ&hl=zh-CN"
-  email            : "jtzhang6 AT gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=VFqSd-QAAAAJ"
+  email            : "emmillynamugaga@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  # facebook         :
   foursquare       :
-  github           : "jt-zhang"
+  github           : "maqamylee0"
   google_plus      :
   keybase          :
   # instagram        : "jt_zhang6"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jintao-zhang-57637a272"
+  linkedin         : "namuganga-emmilly-immaculate"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   # twitter          : "Winterice10"
   vine             :
-  weibo            : "u/6366064730"
+  # weibo            : "u/6366064730"
   xing             :
   youtube          :
   wikipedia        :
