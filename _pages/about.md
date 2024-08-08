@@ -34,7 +34,7 @@ Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.ed
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interest
-My research interests lie on the intersection of Machine Learning and databases.
+My research interests lie at the intersection of Machine Learning and databases.
 
 <!-- Currently, my research interests are centered around **Efficient ML**, specifically, accelerating the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models). -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
