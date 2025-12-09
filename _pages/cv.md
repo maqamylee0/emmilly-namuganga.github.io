@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Summer 2025: Research Intern
+  * Max Planck Institute for Software Systems
+  * Duties included: Experimental Analysis and benchmarking Learned Systems
+  * Supervisor: Laurent BindSchaedler
+
 * Summer 2024: Research Intern
   * Max Planck Institute for Software Systems
   * Duties included: Experimental Analysis and benchmarking Learned Systems

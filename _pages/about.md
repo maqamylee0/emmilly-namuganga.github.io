@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emmilly's home page"
+# title: "About Emmilly"
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 # excerpt: "Home page"
 author_profile: true
@@ -10,13 +10,15 @@ redirect_from:
 ---
 <!-- Download [My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf). -->
 <!-- [View My CV](https://github.com/jt-zhang/picgozjt/raw/main/CV-Jintao_Zhang.pdf){:target="_blank"} -->
-[View My CV](https://maqamylee0.github.io/files/CV-Emmilly_Namuganga.pdf)
+<!-- [View My CV](https://maqamylee0.github.io/files/CV-Emmilly_Namuganga.pdf) -->
 
 <!-- https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/jt-zhang/picgozjt/raw/main/docs/CV-Jintao-Zhang.pdf -->
 
 
-## Education Info
-Undergraduate: Sep. 2019 - Feb. 2023, Dept. of CS, Makerere University,<span style="color: white;">........</span>Kampala, Uganda
+## Education
+**Masters**: August. 2024 - May. 2027, College of Engineering, CMU-Africa <span style="color: white;">........</span>Kigali, Rwanda
+
+**Bachelors**: Sep.  2019 - Feb. 2023, Dept. of CS, Makerere University,<span style="color: white;">........</span>Kampala, Uganda
 
 <!-- Master:<span style="color: white;">............</span>Sep. 2017 - Jul. 2024, Dept. of CS&T, Tsinghua University, Beijing, China
 
@@ -34,32 +36,40 @@ Supervisor of Master program: Prof. [Guoliang Li](https://dbgroup.cs.tsinghua.ed
 - Sep 2021 -   Now    : Admitted to study for a M.Sc. degree in Tsinghua University without entrance examination following professor Guoliang Li. -->
 
 ## Research Interest
-My research interests lie at the intersection of Machine Learning and databases.
-
+My focus lies in leveraging machine learning to optimize processes, improve system efficiency, and solve complex real-world problems. With a strong foundation in computer science and advanced AI techniques, I enjoy exploring how intelligent systems can transform industries from data systems and optimization tasks to healthcare and scientific computing.
 <!-- Currently, my research interests are centered around **Efficient ML**, specifically, accelerating the training and inference of LLMs (Large Language Models) and VLMs (Vision-Language Models). -->
 <!-- - AI4DB: Database for Artificial Intelligence. -->
 <!-- - DB4AI: Artificial intelligence for Database. -->
 
 ## Internships
-
-* Summer 2024: Research Intern
-  * Max Planck Institute for Software Systems
-  * Duties included: Experimental Analysis on benchmarking Learned Systems
+* Summer 2025: Research Intern - **Max Planck Institute for Software Systems, Germany**
+  * During the following summer, I extended my previous research by building a longitudinal benchmark for learned index structures. This benchmark allowed for systematic evaluation over time, revealing substantial weaknesses in fundamental operations of these indexes, including insertion, deletion, and query performance under varied workloads.
+  * The project strengthened my ability to translate theoretical insights into empirical evaluation and contributed to a deeper understanding of the practical challenges in applying machine learning to data systems.
+    * **Skills and technologies used**: C++, Python, data analysis, academic literature review, experimental design, and benchmarking frameworks.
   <!-- * Supervisor: Laurent BindSchaedler -->
 
-* Summer 2023: Openlab summer Intern
-  * European Organisation for Nuclear Research
-  * Duties included: Implementing improvements to CERN web login in regards to accessibility
+* Summer 2024: Research Intern - **Max Planck Institute for Software Systems, Germany**
+  * During this internship, I gained hands-on experience in the entire research process, from understanding existing work to experimental validation.
+  * I mainly worked on reproducing key experiments from prior work to validate findings.
+  * Reading and synthesizing research papers in the field of learned systems.
+  * Formulating research questions and testing them through rigorous experimentation.
+    * **Skills and technologies used**: Python, data analysis, C++, Github, academic literature review, experimental design, and benchmarking frameworks.
+  <!-- * Supervisor: Laurent BindSchaedler -->
+
+* Summer 2023: Openlab summer Intern- **CERN Geneva, Switzerland**
+  * As part of this project, I conducted a accessibility study on CERN’s Single Sign-On (SSO) system, used by thousands of users daily to access internal services.
+  * Implementing targeted improvements to remove accessibility blockages, ensuring the login process met usability standards for all users.
+    * **Skills and technologies used**: Python, React, Spring, GitLab, human-centered design, accessibility testing, assistive technologies.
   <!-- * Supervisor: Hannah Short and Maria Fava -->
 
-## Awards & Honors
+<!-- ## Awards & Honors -->
 <!-- - Dec. 2023: Tsinghua University “129” Scholarship
 - May. 2023: Siebel Scholars Scholarship 
 <!-- - Oct. 2022: Comprehensive First-Class Scholarship of Tsinghua University -->
 <!-- - Apr. 2021: Outstanding Graduate of Shaanxi Province -->
 <!-- - Dec. 2020: President's Scholarship of Xidian University (top 0.03%)
 - Dec. 2020: National Scholarship --> 
-- Dec. 2019: Governement Scholarship
+<!-- - Dec. 2019: Governement Scholarship -->
 <!-- - Dec. 2019: Bronze Medal of the ACM/ICPC Programming Contest -->
 <!-- - Apr. 2020: Honorable Mention Award of the American Mathematical Contest in Modeling -->
 
